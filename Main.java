@@ -34,9 +34,7 @@ public class Main {
         System.out.println(countUp);
       }
       countUp = countUp + 1;
-    }
-
-      
+    }  
 
     
   }  
